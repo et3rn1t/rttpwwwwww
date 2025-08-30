@@ -1,0 +1,5 @@
+aiogram==3.3.0
+redis==4.5.5
+loguru==0.7.0
+pydantic-settings==2.0.3
+pytz==2023.3
